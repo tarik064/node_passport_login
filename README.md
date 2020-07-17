@@ -1,6 +1,7 @@
 # node_passport_login
 
 It's a simple registration login system with passport authentication and bcrypt password encryption.
+Used MongoDB atlas.
 
 Installation Process:
 
